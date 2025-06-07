@@ -63,4 +63,8 @@ This system represents a significant step toward breaking down language barriers
 
 ![WhatsApp Image 2025-04-28 at 23 49 44_a9afa3dd](https://github.com/user-attachments/assets/cfb385d2-3094-4e4c-bd7f-2af071d3005b)
 
-https://www.youtube.com/watch?v=mNLS1jSLXuo
+---
+
+- Working: https://www.youtube.com/watch?v=mNLS1jSLXuo
+
+- Detail Documentaion: https://code2tutorial.com/tutorial/91dc2c0f-fc51-4ca9-a1f1-7c8e30c2eacb/index.md
