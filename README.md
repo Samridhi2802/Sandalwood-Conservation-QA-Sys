@@ -1,5 +1,6 @@
 # Sandalwood-Conservation-QA-Sys
 
+---
 
 ## Introduction
 
@@ -12,6 +13,11 @@ The primary objectives of this system are:
 4. To create an accessible interface for users with varying degrees of language proficiency
 
 This system has particular relevance in multilingual regions where Kannada is spoken, potentially serving educational purposes, customer service applications, and information access for those who are more comfortable communicating in Kannada than in English.
+
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/336ab3ad-6724-4e45-b866-05ece0728ca4" />
+
+
+---
 
 ## Methodology
 
@@ -42,6 +48,8 @@ The methodology of the Kannada-English QA system involves several key technical 
 - **Multimodal Output**: The system presents answers in multiple formats—audio playback for auditory learning and text display in both languages for visual confirmation.
 - **Interactive Controls**: The user interface includes intuitive recording controls for starting and stopping audio input.
 
+---
+
 ## Conclusion
 
 The Kannada-English Question-Answering System successfully demonstrates the integration of speech recognition, natural language processing, and machine translation technologies to create a functional cross-lingual information retrieval system. By enabling users to interact in Kannada while accessing information that might primarily exist in English, the system addresses a significant accessibility gap in multilingual computing.
@@ -60,6 +68,8 @@ Several opportunities for future enhancement exist:
 5. Optimizing the system for deployment on resource-constrained devices to enhance accessibility
 
 This system represents a significant step toward breaking down language barriers in information access and demonstrates the potential of multilingual AI systems to serve diverse linguistic communities. By continuing to refine and expand such systems, we can work toward a more inclusive digital experience that honors linguistic diversity while providing equal access to information.
+
+---
 
 ![WhatsApp Image 2025-04-28 at 23 49 44_a9afa3dd](https://github.com/user-attachments/assets/cfb385d2-3094-4e4c-bd7f-2af071d3005b)
 
