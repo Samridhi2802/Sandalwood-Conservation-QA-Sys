@@ -86,7 +86,11 @@ This system represents a significant step toward breaking down language barriers
 
 ---
 
-![WhatsApp Image 2025-04-28 at 23 49 44_a9afa3dd](https://github.com/user-attachments/assets/cfb385d2-3094-4e4c-bd7f-2af071d3005b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b2cd237a-b47a-4057-bec1-ba763c870d58" 
+       alt="Kannada Audio QA Workflow" 
+       width="700" />
+</div>
 
 ---
 
