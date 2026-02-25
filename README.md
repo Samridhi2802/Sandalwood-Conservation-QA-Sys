@@ -96,4 +96,3 @@ This system represents a significant step toward breaking down language barriers
 
 - Working: https://www.youtube.com/watch?v=mNLS1jSLXuo
 
-- Detail Documentaion: https://code2tutorial.com/tutorial/91dc2c0f-fc51-4ca9-a1f1-7c8e30c2eacb/index.md
